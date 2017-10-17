@@ -1,7 +1,8 @@
-_20171010_143006/
+lib/
+include/
+bin/
 Seutukartta/
-_20171010_143006.zip
-Seutukartta.zip
+.vscode/
 items.csv
-A01S_HKI_Askan_rvuosi.px
-
+kokotun.csv
+pyvenv.cfg
