@@ -8,3 +8,4 @@ kokotun.csv
 pyvenv.cfg
 
 .idea/
+.ipynb_checkpoints/
