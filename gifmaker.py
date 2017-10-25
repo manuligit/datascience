@@ -14,4 +14,4 @@ images.append(imageio.imread('maps/2000-2009_text.png'))
 images.append(imageio.imread('maps/2010-2016_text.png'))
 images.append(imageio.imread('maps/total_text.png'))
 
-imageio.mimsave('movie.gif', images,  duration=2)
+imageio.mimsave('timeline.gif', images,  duration=2)
