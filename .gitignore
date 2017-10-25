@@ -4,7 +4,6 @@ bin/
 Seutukartta/
 .vscode/
 items.csv
-kokotun.csv
 pyvenv.cfg
 
 .idea/
