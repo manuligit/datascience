@@ -1,7 +1,7 @@
 # Building / house types of Helsinki
 
 ### Presentation
-[https://docs.google.com/presentation/d/1LgMRZY04fFNrgax5JRhgl_QPbUGyYIytLBuAVPP1teQ/edit?usp=sharing](Presentation)
+[https://docs.google.com/presentation/d/1LgMRZY04fFNrgax5JRhgl_QPbUGyYIytLBuAVPP1teQ/edit?usp=sharing]()
 
 ### Data about buildings and house types
 
