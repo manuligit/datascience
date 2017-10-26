@@ -1,5 +1,7 @@
 # Building / house types of Helsinki
 
+### Presentation
+[https://docs.google.com/presentation/d/1LgMRZY04fFNrgax5JRhgl_QPbUGyYIytLBuAVPP1teQ/edit?usp=sharing](Presentation)
 
 ### Data about buildings and house types
 
@@ -9,11 +11,9 @@ buildings database to examine.
 
 The data was built from multiple files:
 
-Tilastokanta > 
+Tilastokanta > www.alu
 
 The data was in PC-Axis (.px) files, so we first had to convert them to .csv files with PC-AXis program.
-
-...
 
 Data can be connected to geo data by field 'kokotun', which is a
 code for areas on Helsinki Seutukartta map.
